@@ -44,7 +44,7 @@
     "url": "https://github.com/microsoft/appcenter-cli/issues"
   },
   "files": [
-    "package-lock.json",
+    "yarn.lock",
     "bin",
     "dist"
   ],
